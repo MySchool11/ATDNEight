@@ -1,15 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AITDNEight
+﻿namespace AITDNEight
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+
+        /// <summary>
+        /// This projects deals witrh Events and their relationship to Delegates
+        /// </summary>
+        /// <author>
+        /// Samuel Bancroft (c) 2017
+        /// </author>
+        /// <code>
+        /// Program.cs => the main file
+        /// </code>
+
+        private static void Main(string[] args)
         {
+            
         }
+
     }
 }
